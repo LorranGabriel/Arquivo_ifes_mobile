@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022193602854",
+    "firebase_url": "https://arquivoifes-bc053.firebaseio.com",
+    "project_id": "arquivoifes-bc053",
+    "storage_bucket": "arquivoifes-bc053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022193602854:android:f3e53b0fa85ca7231e71e7",
+        "android_client_info": {
+          "package_name": "com.arquivoifes.arquivo_ifes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022193602854-ne0qlh2sj0udd0aumv4p7o69kcn8c2vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2DVXA1LdUETsyHn7Vth-PhtBAq_R-Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022193602854-ne0qlh2sj0udd0aumv4p7o69kcn8c2vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
